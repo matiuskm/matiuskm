@@ -9,4 +9,4 @@ I'm a backend engineer at [Wine.Delivery Singapore](https://wine.delivery)
   - [Email](mailto:saya@kristyantomulyono.com)
 
 ### Github Stats
-[![Saiful Bahri's Github Stats](https://github-readme-stats.vercel.app/api?username=matiuskm&count_private=true&theme=default&show_icons=true)](https://github.com/matiuskm)
+[![Kris' Github Stats](https://github-readme-stats.vercel.app/api?username=matiuskm&count_private=true&theme=default&show_icons=true)](https://github.com/matiuskm)
